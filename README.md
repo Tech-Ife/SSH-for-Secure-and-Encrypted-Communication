@@ -80,6 +80,11 @@ This project showed me how quickly a default SSH install can be hardened into a 
 ![SSH Encrypted Traffic](images/SSH_Encrypted_Traffic.png)  
 *Packet payload unreadable; SSH session data protected by negotiated encryption.*
 
+### 4. Successful SSH Connection
+![SSH Connected Successfully](images/Successful_SSH_Conection.png)
+
+*Successful SSH connection.The Ubuntu client – student@linux-server successfully connecting to the Admin user – Ifeanyi@linux-server*
+
 ---
 
 ## 🔗 References
