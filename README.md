@@ -73,7 +73,7 @@ This project showed me how quickly a default SSH install can be hardened into a 
 *Ed25519 key pair created on the client; public key copied for server install.*
 
 ### 2. Telnet Plaintext Capture (Wireshark)
-![Telnet Plaintext Capture](./screenshots/telnet_plaintext_wireshark.png)  
+![Telnet Plaintext Capture](images/WIreshark_Telnetpng.png)  
 *Credentials visible in clear text during Telnet session capture — why Telnet is unsafe.*
 
 ### 3. SSH Encrypted Traffic (Wireshark)
