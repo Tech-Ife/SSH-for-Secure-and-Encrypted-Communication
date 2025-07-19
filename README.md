@@ -69,7 +69,7 @@ This project showed me how quickly a default SSH install can be hardened into a 
 > Place the following image files in `./screenshots/` after exporting them from the project PDF.
 
 ### 1. SSH Key Generation (Client)
-![SSH Key Generation](./screenshots/ssh_keygen_publickey.png)  
+![SSH Key Generation](images/Pubic_key_and_Private_key.png)  
 *Ed25519 key pair created on the client; public key copied for server install.*
 
 ### 2. Telnet Plaintext Capture (Wireshark)
