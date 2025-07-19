@@ -66,7 +66,6 @@ This project showed me how quickly a default SSH install can be hardened into a 
 ---
 
 ## 🖼 Screenshots & Highlights
-> Place the following image files in `./screenshots/` after exporting them from the project PDF.
 
 ### 1. SSH Key Generation (Client)
 ![SSH Key Generation](images/Pubic_key_and_Private_key.png)  
