@@ -77,7 +77,7 @@ This project showed me how quickly a default SSH install can be hardened into a 
 *Credentials visible in clear text during Telnet session capture — why Telnet is unsafe.*
 
 ### 3. SSH Encrypted Traffic (Wireshark)
-![SSH Encrypted Traffic](./screenshots/ssh_encrypted_wireshark.png)  
+![SSH Encrypted Traffic](images/SSH_Encrypted_Traffic.png)  
 *Packet payload unreadable; SSH session data protected by negotiated encryption.*
 
 ---
