@@ -60,7 +60,7 @@ This project showed me how quickly a default SSH install can be hardened into a 
 ---
 
 ## 📂 Project Files
-- **[View Full Project Report (PDF)](./SSH_Encryption_Communication_on_Ubuntu_Linux_VM.pdf)**  
+- **[View Full Project Report (PDF)](docs/SSH_Encryption_Communication_on_Ubuntu_Linux_Virtual_Machine.pdf)**  
 - **[View Final sshd_config File](./sshd_config_file.txt)**  
 
 ---
