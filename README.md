@@ -48,8 +48,8 @@ I followed a structured, repeatable process:
 
 
 ## 📂 Project Files
-- **[View Full Project Report (PDF)](docs/SSH_Encryption_Communication_on_Ubuntu_Linux_Virtual_Machine.pdf)**  
-- **[View Final sshd_config File](docs/sshd_config_file.pdf)**  
+- **[ Full Project Report (PDF)](docs/SSH_Encryption_Communication_on_Ubuntu_Linux_Virtual_Machine.pdf)**  
+- **[sshd_config File](docs/sshd_config_file.pdf)**  
 
 
 ##  Screenshots 
