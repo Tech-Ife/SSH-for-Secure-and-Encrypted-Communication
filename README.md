@@ -47,7 +47,7 @@ I followed a structured, repeatable process:
 - Secure remote administration best practices and documentation.
 
 
-## 📂 Project Files
+##  Project Files
 - **[ Full Project Report (PDF)](docs/SSH_Encryption_Communication_on_Ubuntu_Linux_Virtual_Machine.pdf)**  
 - **[sshd_config File](docs/sshd_config_file.pdf)**  
 
