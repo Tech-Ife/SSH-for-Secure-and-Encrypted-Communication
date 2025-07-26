@@ -1,4 +1,4 @@
-# SSH-for-Secure-and-Encrypted-Communication
+# Secure and Encrypted Communication via SSH
 
 ##  Project Overview
 This project demonstrates how I configured and hardened an **SSH server on Ubuntu Linux** to ensure secure, encrypted remote communication. The work included **key-based authentication, SSH hardening, custom port configuration, strong cipher enforcement, and session timeout controls** to reduce exposure to brute-force attacks, credential interception, and man-in-the-middle attempts.
