@@ -83,11 +83,11 @@ I followed a structured, repeatable process:
 - [NIST SP 800-123: Guide to General Server Security](https://csrc.nist.gov/publications/detail/sp/800-123/final)
 - [Vultr SSH Hardening Docs](https://docs.vultr.com)
 - [Wireshark User Guide](https://www.wireshark.org/docs/wsug_html_chunked/)
-- [DigitalOcean SSH Key Setup Guide](https://www.digitalocean.com/community/tutorials)
+- [DigitalOcean SSH Key Setup Guide](https://www.digitalocean.com/community/tutorials/how-to-use-ssh-to-connect-to-a-remote-server)
 
 
 
-## 👤 Author
+##  Author
 **Ifeanyi Christian Edeh**  
 Cybersecurity Specialist  
 [LinkedIn Profile](https://www.linkedin.com/in/ifeanyiedeh)
